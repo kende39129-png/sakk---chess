@@ -1,1 +1,1 @@
-# sakk---chess
+# sakk-chess
